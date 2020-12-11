@@ -1,0 +1,88 @@
+{
+    "companyListResult": {
+        "totCnt": 12405,
+        "companyList": [
+            {
+                "companyCd": "20206161",
+                "companyNm": "(주)콘텐츠패밀리",
+                "companyNmEn": "CONTENTS FAMILY",
+                "companyPartNames": "배급사,수입사",
+                "ceoNm": "우지만",
+                "filmoNames": "쇼걸"
+            },
+            {
+                "companyCd": "20206141",
+                "companyNm": "(주)더세컨드웨이브",
+                "companyNmEn": "SECONDWAVE",
+                "companyPartNames": "배급사,수입사",
+                "ceoNm": "이정희",
+                "filmoNames": "쇼걸"
+            },
+            {
+                "companyCd": "20206081",
+                "companyNm": "(주)에스비에스미디어넷",
+                "companyNmEn": "",
+                "companyPartNames": "제작사,배급사",
+                "ceoNm": "김계홍",
+                "filmoNames": "이별유예, 일주일"
+            },
+            {
+                "companyCd": "20206121",
+                "companyNm": "주식회사 퍼플스트로우필름",
+                "companyNmEn": "",
+                "companyPartNames": "제작사",
+                "ceoNm": "임성관",
+                "filmoNames": "스웨그"
+            },
+            {
+                "companyCd": "20206101",
+                "companyNm": "스튜디오 파동",
+                "companyNmEn": "",
+                "companyPartNames": "제작사",
+                "ceoNm": "",
+                "filmoNames": "머리카락"
+            },
+            {
+                "companyCd": "20204901",
+                "companyNm": "제뉴어리이공 현프로",
+                "companyNmEn": "",
+                "companyPartNames": "제작사",
+                "ceoNm": "김현정",
+                "filmoNames": "어린과부,어린과부 무삭제"
+            },
+            {
+                "companyCd": "20206063",
+                "companyNm": "코리아서프리그 주식회사",
+                "companyNmEn": "",
+                "companyPartNames": "배급사,수입사",
+                "ceoNm": "송민",
+                "filmoNames": "스푼즈: 서핑문화 이야기"
+            },
+            {
+                "companyCd": "20206062",
+                "companyNm": "블루진픽처스",
+                "companyNmEn": "",
+                "companyPartNames": "제작사",
+                "ceoNm": "문성주",
+                "filmoNames": ""
+            },
+            {
+                "companyCd": "20204542",
+                "companyNm": "원트리(주)",
+                "companyNmEn": "",
+                "companyPartNames": "제작사",
+                "ceoNm": "김명현",
+                "filmoNames": ""
+            },
+            {
+                "companyCd": "20125435",
+                "companyNm": "(주)카메디아스퀘어",
+                "companyNmEn": "Camedia Square",
+                "companyPartNames": "제작사",
+                "ceoNm": "정우열",
+                "filmoNames": ""
+            }
+        ],
+        "source": "영화진흥위원회"
+    }
+}
